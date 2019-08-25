@@ -2,7 +2,7 @@
 
 exports[`declare_enum.ts 1`] = `
 ====================================options=====================================
-parsers: ["typescript"]
+parsers: ["typescript", "babel-ts"]
 printWidth: 80
                                                                                 | printWidth
 =====================================input======================================
@@ -18,7 +18,7 @@ declare enum Bar {}
 
 exports[`declare_function.ts 1`] = `
 ====================================options=====================================
-parsers: ["typescript"]
+parsers: ["typescript", "babel-ts"]
 printWidth: 80
                                                                                 | printWidth
 =====================================input======================================
@@ -44,7 +44,7 @@ declare namespace A {
 
 exports[`declare_interface.ts 1`] = `
 ====================================options=====================================
-parsers: ["typescript"]
+parsers: ["typescript", "babel-ts"]
 printWidth: 80
                                                                                 | printWidth
 =====================================input======================================
@@ -62,7 +62,7 @@ declare interface Dictionary<T> {
 
 exports[`declare_var.ts 1`] = `
 ====================================options=====================================
-parsers: ["typescript"]
+parsers: ["typescript", "babel-ts"]
 printWidth: 80
                                                                                 | printWidth
 =====================================input======================================
