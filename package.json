@@ -5,8 +5,8 @@
   "bin": {
     "prettier": "./bin/prettier.js"
   },
-  "repository": "prettier/prettier",
-  "homepage": "https://prettier.io",
+  "repository": "https://github.com/lppedd/prettier/tree/feat/babel_ts",
+  "homepage": "https://github.com/lppedd/prettier/tree/feat/babel_ts",
   "author": "James Long",
   "license": "MIT",
   "main": "./index.js",
