@@ -1,6 +1,6 @@
 {
   "name": "prettier-next-lppedd",
-  "version": "99.1.22",
+  "version": "99.1.23",
   "description": "Prettier is an opinionated code formatter",
   "bin": {
     "prettier": "./bin/prettier.js"
